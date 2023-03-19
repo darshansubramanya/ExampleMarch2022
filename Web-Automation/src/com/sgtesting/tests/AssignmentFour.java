@@ -13,6 +13,7 @@ public class AssignmentFour
 		navigate();
 		login();
 		minimizeFlyOutWindow();
+		logout();
 		
 	}
 	private static void launchBrowser()
