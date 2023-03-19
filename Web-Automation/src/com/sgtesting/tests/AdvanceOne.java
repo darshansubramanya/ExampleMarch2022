@@ -19,7 +19,7 @@ public class AdvanceOne
 		createUserThree();
 		logout();
 		loginAsUserOne();
-		logoutOne();
+		
 		loginAsUserTwo();
 		logoutTwo();
 		loginAsUserThree();
