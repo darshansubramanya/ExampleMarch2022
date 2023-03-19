@@ -13,11 +13,8 @@ public class AssignmentFour
 		navigate();
 		login();
 		minimizeFlyOutWindow();
-		createCustomer();
-		modifyCustomer();
-		//deleteCustomer();
-		//logout();
-		//closeApplication();
+		logout();
+		
 	}
 	private static void launchBrowser()
 	{
