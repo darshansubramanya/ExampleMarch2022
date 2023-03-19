@@ -16,8 +16,7 @@ public class AssignmentOne
 		minimizeFlyOutWindow();
 		createUser();
 		deleteUser();
-		logout();
-		closeApplication();
+		
 	}
 	private static void launchBrowser()
 	{
